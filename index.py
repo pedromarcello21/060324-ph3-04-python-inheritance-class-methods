@@ -1,4 +1,3 @@
-# import App from './App'
 from classes.bird import Bird
 from classes.cat import Cat
 from classes.dog import Dog
